@@ -4,7 +4,8 @@ import time
 import sys
 from playwright.sync_api import sync_playwright, TimeoutError as PwTimeout
 
-URL = (输入你的课程视频播放页链接
+URL = (
+    "粘贴你的课程播放页链接"
 )
 
 def run():
