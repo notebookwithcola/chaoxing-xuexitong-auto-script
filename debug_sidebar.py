@@ -2,11 +2,7 @@
 import time, sys
 from playwright.sync_api import sync_playwright, TimeoutError as PwTimeout
 
-URL = (
-    "https://mooc1.chaoxing.com/mycourse/studentstudy"
-    "?chapterId=1115194475&courseId=260629489&clazzid=139594498"
-    "&cpi=269477296&enc=e7cc9e165168a20b08f526a172804b09"
-    "&mooc2=1&hidetype=0&openc=737dda4e32af4f81f18ce86425a5126c"
+URL = (输入你的课程播放页链接
 )
 
 def run():
